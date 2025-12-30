@@ -46,7 +46,7 @@
 
   <tr>
     <td width="50">
-      <img src="public/readme/create-react-app.svg" width="30">
+      <img src="public/readme/create-react-app.svg" width="40">
     </td>
     <td>
       Create React App: Criação do projeto
